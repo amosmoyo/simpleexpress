@@ -5,5 +5,5 @@
 To run the simple server run
 
 ### Basic
--npm install
--npm start
+- npm install
+- npm start
