@@ -2,6 +2,8 @@
 
 
 ## SETUP
-To run the simple server run:
+To run the simple server run
+
+### Basic
 -npm install
 -npm start
